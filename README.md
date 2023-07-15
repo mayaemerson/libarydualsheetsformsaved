@@ -1,5 +1,6 @@
 # DualSheetFormSaver
 
+# Para usar como biblioteca o id é 1jlOXSrvBRql86Xo8vENKyDgJq8BDOfSWdSc3lBFLrVjn8aeJQuwnxCCu  , onFormSubmit(e,id,aba1,aba2) 
 ## Descrição
 
 O DualSheetFormSaver é um script do Google Apps Script que permite salvar os valores enviados de um formulário em duas abas diferentes de uma planilha.
