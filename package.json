@@ -1,0 +1,21 @@
+{
+  "name": "dualsheetformsaver",
+  "version": "1.0.0",
+  "description": "libary  para salvar dados do formulário do google em duas abas",
+  "main": "index.js",
+  "scripts": {
+    "glogin": "clasp login",
+    "gclone": "clasp clone  1jlOXSrvBRql86Xo8vENKyDgJq8BDOfSWdSc3lBFLrVjn8aeJQuwnxCCu  --rootDir apps",
+    "glogout": "clasp logout",
+    "gpull": "clasp pull",
+    "gpush": "clasp push",
+    "gstart": "clasp push --watch"
+  },
+
+  "author": "maia emerson",
+  "license": "ISC",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.65"
+  }
+}
